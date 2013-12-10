@@ -1,4 +1,4 @@
-Dit is de voorbeeld repository voor de Git workshop. 
+Dit is de voorbeeldrepository voor de Git-workshop. 
 
 Een lijst met (handige) resources:
 - http://git-scm.com/documentation
