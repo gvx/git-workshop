@@ -1,4 +1,4 @@
-Dit is het voorbeeldkonijntje voor de Git workshop. 
+Dit is het voorbeeldkonijntje voor de Git-workshop. 
 
 Een lijst met (schattige) konijntjes:
 - http://konijnen.nl
