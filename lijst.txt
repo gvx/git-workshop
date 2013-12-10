@@ -1,6 +1,6 @@
-Bestandje met gegevens:
+Bestandje met konijnen:
 
-Naam, Startjaar
+Naam, Kleur
 --------------
-Robin Wellner, 2010
-Flip van Rijn, 2010
+Nijntje, Wit
+Bugs Bunny, Grijs
