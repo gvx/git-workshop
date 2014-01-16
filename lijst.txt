@@ -1,11 +1,11 @@
 Bestandje met gegevens:
 
-Naam, Startjaar
+Naam, 		Startjaar
 --------------
-Robin Wellner, 2010
-Flip van Rijn, 2010
-Harmen Prins, 2011
-Inez Wijnands, 2011
-Liza Verhaert, 2010
+Robin Wellner, 	2010
+Flip van Rijn, 	2010
+Harmen Prins, 	2011
+Inez Wijnands, 	2011
+Liza Verhaert, 	2010
 Arvien Ramdhan, 2010
-Luc Nies, 2011
+Luc Nies, 	2011
