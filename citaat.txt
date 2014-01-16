@@ -1,2 +1,3 @@
 "The quick brown fox jumps over the lazy dog"
 "Den kat krabt den krullen van den trap"
+"Als een rommelig bureau staat voor een rommelige geest, waar staat een leeg bureau dan voor?" - Albert Einstein
