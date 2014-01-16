@@ -4,18 +4,7 @@ Naam, Startjaar
 --------------
 Robin Wellner, 2010
 Flip van Rijn, 2010
-<<<<<<< HEAD
-<<<<<<< HEAD
 Inez Wijnands, 1993
-=======
 Arvien Ramdhan, 2010
->>>>>>> a536c160f00023c8161c2e54af962a5e8d47d9ef
-=======
-Inez Wijnands, 2011
 Liza Verhaert, 2010
-Arvien Ramdhan, 2010
-<<<<<<< HEAD
->>>>>>> cc233197c44cfc57b967a0f057d36c5eb501d26f
-=======
 Luc Nies, 2011
->>>>>>> e72b52efdf86a31e27b6e027399df40cbc765a26
