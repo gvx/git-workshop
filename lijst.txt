@@ -1,7 +1,8 @@
 Bestandje met gegevens:
 
-Naam, Startjaar
+Naam, 		Startjaar
 --------------
+<<<<<<< HEAD
 Robin Wellner, 2010
 Flip van Rijn, 2010
 Inez Wijnands, 1993
@@ -11,3 +12,12 @@ Harmen Prins, 2011
 Luc Nies, 2011
 Dennis Merkus, 2011
 Hallo jongens, het is me eindelijk gelukt!, 2222
+=======
+Robin Wellner, 	2010
+Flip van Rijn, 	2010
+Harmen Prins, 	2011
+Inez Wijnands, 	2011
+Liza Verhaert, 	2010
+Arvien Ramdhan, 2010
+Luc Nies, 	2011
+>>>>>>> HarmensBranchAfblijven
